@@ -1,0 +1,1 @@
+The purpose of this project is to help us understand; arthmetic operator, logical operator, relational operator and how to use them. In addition, what value should considered TRUE or FALSE in c. Bolean operator, if, if ---else statemnt, ASCII, gcc -m32 and -m64 flags will be discussed.
