@@ -1,12 +1,15 @@
 #include "main.h"
 
 /**
- * mul-returns the product of two integers
- * @a and b: integers declar by the main function
- * Return: the product of two integers
- */
+* mul - returns the product of 2 ints
+* @a: an int given by the main function
+* @b: an int given by the main function
+*
+* Description: Uses headers to link and a nested loops to achieve goal
+* Return: see first line
+*/
 
 int mul(int a, int b)
 {
-	return(a * b);
+	return (a * b);
 }
